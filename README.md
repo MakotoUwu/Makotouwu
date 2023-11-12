@@ -51,7 +51,7 @@
 - 🤲 Volunteering Spirit
 
 ### Let's Connect:
-- LinkedIn: [@oleksandr-tsepukh](Your LinkedIn Profile URL)
+- LinkedIn: [@oleksandr-tsepukh](https://www.linkedin.com/in/oleksandr-tsepukh-ba4985279/)
 - Kaggel: [@OleksandrTS](https://www.kaggle.com/oleksandrts)
 - GitHub: [@MakotoUwu](https://github.com/oleksandrts)
 
