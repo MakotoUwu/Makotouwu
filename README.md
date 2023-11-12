@@ -8,7 +8,7 @@
 
 ### What I'm up to:
 
-- 🐍 Building cool stuff with **Python**: **scikit-learn**, **NumPy**, **SciPy**, **MatPlotLib**, **PyTorch**
+- 🐍 Building cool stuff with **Python**: **scikit-learn**, **NumPy**, **SciPy**, **MatPlotLib**, **PyTorch**, **Docker**
 - 👁️‍🗨️ Bringing data to life with **visualizations**: **PowerBI**, **Tableau**, **Jupyter Notebook**
 - ☁ Powering through with the clouds: **AWS**, **Azure**
 - 🔍 Querying the depths with **SQL** and streamlining with **Streamlit**
