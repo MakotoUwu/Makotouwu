@@ -17,10 +17,10 @@
 
 ### Projects I'm proud of:
 - 🌐 Scrapped the vast expanse of Wikipedia using Python ([link to project](https://github.com/MakotoUwu/Wikipedia-Scrapper]))
-- 🏡 Forecasted real estate trends, from data collection to API deployment ([link to project])
-- 💹 Conducted SQL-driven market research for laser-sharp insights ([link to project])
-- 📊 Visualized brilliance with Tableau for Accenture Belgium ([link to project])
-- 💳 Predicted customer churn to help financial institutions hold onto their clientele ([link to project])
+- 🏡 Forecasted real estate trends, from data collection to API deployment ([link to project](https://github.com/danielbauwens/challenge-collecting-data))
+- 💹 Conducted SQL-driven market research for laser-sharp insights ([link to project](https://github.com/Riddis/vivino_analysis))
+- 📊 Visualized brilliance with Tableau for Accenture Belgium ([link to project](https://github.com/Riddis/dragonyte))
+- 💳 Predicted customer churn to help financial institutions hold onto their clientele ([link to project](https://github.com/MakotoUwu/Churn_prediction))
 - 📱 Innovated with PowerBI for Orange Belgium's B2C insights
 - 🏆 Competed in Hey! x BeCode hackathon, revealing insightful completion rates
 
