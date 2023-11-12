@@ -9,6 +9,7 @@
 ### What I'm up to:
 
 - 🐍 Building cool stuff with **Python**: **scikit-learn**, **NumPy**, **SciPy**, **MatPlotLib**, **PyTorch**, **Docker**
+- 📊 Gaining ground with **R**: expanding my analytics toolkit with the basics of R
 - 👁️‍🗨️ Bringing data to life with **visualizations**: **PowerBI**, **Tableau**, **Jupyter Notebook**
 - ☁ Powering through with the clouds: **AWS**, **Azure**
 - 🔍 Querying the depths with **SQL** and streamlining with **Streamlit**
