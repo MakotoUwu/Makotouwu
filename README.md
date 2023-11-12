@@ -51,10 +51,8 @@
 - 🤲 Volunteering Spirit
 
 ### Let's Connect:
-- LinkedIn: [@oleksandr-tsepukh](https://www.linkedin.com/in/oleksandr-tsepukh-ba4985279/)
-- Kaggel: [@OleksandrTS](https://www.kaggle.com/oleksandrts)
-- GitHub: [@MakotoUwu](https://github.com/oleksandrts)
-
+- LinkedIn: [@oleksandr-tsepukh](https://www.linkedin.com/in/oleksandr-tsepukh-ba4985279)
+- Kaggl: [@OleksandrTS](https://www.kaggle.com/oleksandrts)
 
 ### 📈 This Week I Spent My Time On:
 - Forescast
