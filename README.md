@@ -16,7 +16,7 @@
 - 🤖 Employing AI for predictions and insights that matter
 
 ### Projects I'm proud of:
-- 🌐 Scrapped the vast expanse of Wikipedia using Python ([link to project])
+- 🌐 Scrapped the vast expanse of Wikipedia using Python ([https://github.com/MakotoUwu/Wikipedia-Scrapper])
 - 🏡 Forecasted real estate trends, from data collection to API deployment ([link to project])
 - 💹 Conducted SQL-driven market research for laser-sharp insights ([link to project])
 - 📊 Visualized brilliance with Tableau for Accenture Belgium ([link to project])
