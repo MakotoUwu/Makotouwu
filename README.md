@@ -39,7 +39,7 @@
 - 🧠 **AI Utilization** for **Predictive Analytics**
 
 ### Languages I Speak:
-- 🇬🇧 **English** (Fluently)
+- en **English** (Fluently)
 - 🇳🇱 **Dutch** (B1)
 - 🇺🇦 Ukrainian (Native)
 - 🇷🇺 Russian (Fluently)
