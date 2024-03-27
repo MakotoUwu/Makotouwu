@@ -1,10 +1,10 @@
 # Oleksandr Tsepukh 🚀
 
-## Junior **Data Analyst** | **Business Analyst** | **Data Scientist**
+## **Data Analyst** | **Business Analyst** | **Data Scientist**
 
-👋 Hi there! I'm Oleksandr, a rising star in the realm of **data analysis**. After honing my skills in programming and network courses, I'm excited about **sustainable growth** and creating **impactful data-driven solutions**.
+👋 Hi there! I'm Oleksandr, a rising star in the realm of **data analysis** and **data Science**. After honing my skills in programming and network courses, I'm excited about **sustainable growth** and creating **impactful data-driven solutions**.
     
-📚 Currently enhancing my **Dutch** and mastering the arts of **data** at **BeCode**. Let's dive into the world of **analytics** together!
+📚 Currently enhancing my **Dutch** and mastering the arts of **data** at **Eurocontol**. Let's dive into the world of **data** together!
 
 ### What I'm up to:
 
@@ -32,6 +32,7 @@
 ### Academic Credentials:
 - 🌐 **Cisco Network Academy**: **CCNA R&S** (2020-2021)
 - 🎓 High School Diploma (2018)
+-  **BeCode: AI Bootcamp**(2023-2024)
 
 ### Core Skills:
 - 📊 **Data Visualization** Mastery
