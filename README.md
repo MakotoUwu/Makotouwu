@@ -24,6 +24,7 @@
 - 💳 Predicted **customer churn** to help financial institutions hold onto their clientele ([link to project])
 - 📱 Innovated with **PowerBI** for **Orange Belgium's B2C insights**
 - 🏆 Competed in **Hey! x BeCode hackathon**, revealing insightful completion rates
+- ✈ Calculated Fuel burn over a between Different datasets
 
 ### My Previous Chapter:
 👔 **Sales Consultant** at **Lifecell Ukraine** (2021-2022)
