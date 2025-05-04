@@ -11,7 +11,7 @@
 - 🐍 Building cool stuff with **Python**: **scikit-learn**, **NumPy**, **SciPy**, **MatPlotLib**, **PyTorch**, **Docker**
 - 📊 Gaining ground with **R**: expanding my analytics toolkit with the basics of R
 - 👁️‍🗨️ Bringing data to life with **visualizations**: **PowerBI**, **Tableau**, **Jupyter Notebook**
-- ☁ Powering through with the clouds: **AWS**, **Azure**
+- ☁ Powering through with the cloud
 - 🔍 Querying the depths with **SQL** and streamlining with **Streamlit**
 - ✨ Sparking conversations with **prompt engineering** and **natural language processing** using **NLTK**
 - 🤖 Employing **AI** for **predictions** and **insights** that matter
@@ -33,6 +33,7 @@
 - 🌐 **Cisco Network Academy**: **CCNA R&S** (2020-2021)
 - 🎓 High School Diploma (2018)
 -  **BeCode: AI Bootcamp**(2023-2024)
+-   **Machine Learning of MLP** (2024-2025)
 
 ### Core Skills:
 - 📊 **Data Visualization** Mastery
@@ -45,13 +46,6 @@
 - 🇳🇱 **Dutch** (B1)
 - 🇺🇦 Ukrainian (Native)
 - 🇷🇺 Russian (Fluently)
-
-### Personal Interests:
-- 🌿 **Sustainable Development Advocate**
-- 🧗 Bouldering Enthusiast
-- 🌍 Globetrotter
-- 🥾 Avid Hiker
-- 🤲 Volunteering Spirit
 
 ### Let's Connect:
 - LinkedIn: [@oleksandr-tsepukh](https://www.linkedin.com/in/oleksandr-tsepukh-ba4985279)
