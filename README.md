@@ -1,52 +1,72 @@
-# Oleksandr Tsepukh 🚀
+# Oleksandr Tsepukh 🤖🚀  
+## **AI Engineer** | **Data Scientist** | **Business Analyst**
 
-## **Data Analyst** | **Business Analyst** | **Data Scientist**
+👋 Hey there! I'm Oleksandr — blending data, code, and AI to build intelligent solutions that *solve real-world problems* and *scale sustainably*. With a strong foundation in **machine learning**, **natural language processing**, and **data pipelines**, I'm driven by **impact**, **optimization**, and a touch of curiosity.
 
-👋 Hi there! I'm Oleksandr, a rising star in the realm of **data analysis** and **data Science**. After honing my skills in programming and network courses, I'm excited about **sustainable growth** and creating **impactful data-driven solutions**.
-    
-📚 Currently enhancing my **Dutch** and mastering the arts of **data** at **Eurocontol**. Let's dive into the world of **data** together!
+📚 Currently sharpening my AI engineering skills while studying at the **University of Antwerp** and learning **Dutch**. Let’s create **data-powered intelligence** that drives the future.
 
-### What I'm up to:
+---
 
-- 🐍 Building cool stuff with **Python**: **scikit-learn**, **NumPy**, **SciPy**, **MatPlotLib**, **PyTorch**, **Docker**
-- 📊 Gaining ground with **R**: expanding my analytics toolkit with the basics of R
-- 👁️‍🗨️ Bringing data to life with **visualizations**: **PowerBI**, **Tableau**, **Jupyter Notebook**
-- ☁ Powering through with the cloud
-- 🔍 Querying the depths with **SQL** and streamlining with **Streamlit**
-- ✨ Sparking conversations with **prompt engineering** and **natural language processing** using **NLTK**
-- 🤖 Employing **AI** for **predictions** and **insights** that matter
+### 🔧 What I'm Building With:
 
-### Projects I'm proud of:
-- 🌐 Scrapped the vast expanse of **Wikipedia** using **Python** ([link to project](https://github.com/MakotoUwu/Wikipedia-Scrapper))
-- 🏡 **Forecasted real estate trends**, from data collection to API deployment ([link to project])
-- 💹 Conducted **SQL-driven market research** for laser-sharp insights ([link to project])
-- 📊 **Visualized** brilliance with **Tableau** for **Accenture Belgium** ([link to project])
-- 💳 Predicted **customer churn** to help financial institutions hold onto their clientele ([link to project])
-- 📱 Innovated with **PowerBI** for **Orange Belgium's B2C insights**
-- 🏆 Competed in **Hey! x BeCode hackathon**, revealing insightful completion rates
-- ✈ Calculated Fuel burn over a between Different datasets
+- 🧠 **Machine Learning / AI**: `scikit-learn`, `PyTorch`, `NLTK`, `transformers`, `LangChain`, `Prompt Engineering`
+- 🐍 **Programming**: Python (advanced), R (beginner), Bash scripting, Git
+- 📊 **Visualization & BI**: `Matplotlib`, `Seaborn`, `Plotly`, `Streamlit`
+- 🛠️ **MLOps & Tools**: `Docker`, `Jupyter`, `VS Code`, GitHub Actions
+- 📡 **Cloud & APIs**: Gradio, Google Cloud
+- 🗃️ **Data**: SQL, Pandas, NumPy, Web Scraping, ETL, Data Cleaning
+- 🌍 **Languages & NLP**: NLTK, spaCy, Regular Expressions, Tokenization, Text Classification
 
-### My Previous Chapter:
-👔 **Sales Consultant** at **Lifecell Ukraine** (2021-2022)
+---
 
-### Academic Credentials:
-- 🌐 **Cisco Network Academy**: **CCNA R&S** (2020-2021)
-- 🎓 High School Diploma (2018)
--  **BeCode: AI Bootcamp**(2023-2024)
--   **Machine Learning of MLP** (2024-2025)
+### 🧩 AI Projects I'm Proud Of:
 
-### Core Skills:
-- 📊 **Data Visualization** Mastery
-- 🤝 **Team Collaboration**
-- 💬 **Effective Communication**
-- 🧠 **AI Utilization** for **Predictive Analytics**
+- 🧠 Built an **NLP pipeline** to classify personality traits from text using the **Pandora dataset** ([link coming soon])
+- 🌐 Scraped and analyzed **Wikipedia** articles for NLP preprocessing and clustering  
+  → [GitHub](https://github.com/MakotoUwu/Wikipedia-Scrapper)
+- 📊 Developed a **real estate prediction model** (data pipeline, API deployment)  
+  → [link to project]
+- 💳 Predicted **customer churn** for a financial client using ML + SHAP
+- 🔍 Extracted and visualized **market research** via SQL dashboards  
+  → [link to project]
+- 📱 Built **B2C dashboards** with **PowerBI** for **Orange Belgium**
+- ✈ Modeled **fuel burn calculations** across aviation datasets
+- 🏆 Finalist at **Hey! x BeCode Hackathon** – improved course completion insights with AI analytics
 
-### Languages I Speak:
-- en **English** (Fluently)
-- 🇳🇱 **Dutch** (B1)
-- 🇺🇦 Ukrainian (Native)
-- 🇷🇺 Russian (Fluently)
+---
 
-### Let's Connect:
-- LinkedIn: [@oleksandr-tsepukh](https://www.linkedin.com/in/oleksandr-tsepukh-ba4985279)
-- Kaggle: [@OleksandrTS](https://www.kaggle.com/oleksandrts)
+### 🎯 My Mission:
+To build ethical, intelligent AI systems that augment human potential, reduce waste, and power smarter decisions.
+
+---
+
+### 🎓 Education:
+
+- 🧑‍💻 **BeCode AI Bootcamp** (2023–2024)
+- 🧠 **University of Antwerp – Machine Learning & NLP Micro-Credential** (2024–2025)
+- 🌐 **Cisco Network Academy – CCNA R&S** (2020–2021)
+- 🎓 **High School Diploma** (2018)
+
+---
+
+### 💡 Core Strengths:
+- 🔬 **AI Engineering** & ML modeling
+- 📈 **Data storytelling** & visualization
+- 🌍 **Multilingual communication** across teams
+- ⚙️ **Automation**, APIs, and **rapid prototyping**
+
+---
+
+### 🌐 Languages I Speak:
+- 🇬🇧 English (Fluent)  
+- 🇳🇱 Dutch (B1 level, improving daily)  
+- 🇺🇦 Ukrainian (Native)  
+- 🇷🇺 Russian (Fluent)  
+
+---
+
+### 📲 Let’s Build Together:
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/oleksandr-tsepukh-ba4985279)  
+- [📊 Kaggle](https://www.kaggle.com/oleksandrts)  
+- ✉️ DM me for collaborations, speaking gigs, or hackathons
