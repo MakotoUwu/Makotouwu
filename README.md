@@ -1,5 +1,5 @@
-# Oleksandr Tsepukh 🤖🚀  
-## **AI Engineer** | **Data Scientist** | **Business Analyst**
+# Oleksandr Tsepukh 
+## **AI Engineer** | **Data Scientist** 
 
 👋 Hey there! I'm Oleksandr — blending data, code, and AI to build intelligent solutions that *solve real-world problems* and *scale sustainably*. With a strong foundation in **machine learning**, **natural language processing**, and **data pipelines**, I'm driven by **impact**, **optimization**, and a touch of curiosity.
 
